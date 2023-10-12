@@ -1,0 +1,21 @@
+//MO021-022.TXT ANA00021 TO ANA00022
+Service		TAR	35	nouvelle taille enregistrement : 35
+Service	Assurance_retour	RUB-		la rubrique Assurance_retour est supprimée
+Service	IDEmballage	RUB-		la clé IDEmballage est supprimée
+Ligne_Commande		TAR	102	nouvelle taille enregistrement : 102
+Ligne_Commande	Designation	RUB+		Designation est une nouvelle rubrique
+Ligne_Commande	Volume	RUB+		Volume est une nouvelle rubrique
+Ligne_Commande	Poids	RUB+		Poids est une nouvelle rubrique
+Ligne_Commande	Assurance_retour	RUB+		Assurance_retour est une nouvelle rubrique
+Ligne_Commande	IDEmplacement	RUB+		IDEmplacement est une nouvelle clé
+Ligne_Commande	IDRéférence	RUB+		IDRéférence est une nouvelle clé
+Ligne_Commande	IDEmballage	RUB+		IDEmballage est une nouvelle clé
+Ligne_Commande	IDProduit	RUB-		la clé IDProduit est supprimée
+Référence		NFI		nouveau fichier
+Produit		FIC-	Produit	Fichier supprimé Produit
+Contrainte_Emballage_Ligne_Commande		NWL	Emballage (IDEmballage) et Ligne_Commande (IDEmballage)	Nouvelle liaison entre les fichiers Emballage (IDEmballage) et Ligne_Commande (IDEmballage)
+Contrainte_Référence_Ligne_Commande		NWL	Référence (IDRéférence) et Ligne_Commande (IDRéférence)	Nouvelle liaison entre les fichiers Référence (IDRéférence) et Ligne_Commande (IDRéférence)
+Contrainte_Emplacement_Ligne_Commande		NWL	Emplacement (IDEmplacement) et Ligne_Commande (IDEmplacement)	Nouvelle liaison entre les fichiers Emplacement (IDEmplacement) et Ligne_Commande (IDEmplacement)
+Contrainte_Emballage_Service		DEL	Emballage (IDEmballage) et Service (IDEmballage)	Liaison supprimée entre les fichiers Emballage (IDEmballage) et Service (IDEmballage)
+Contrainte_Emplacement_Produit		DEL	Emplacement (IDEmplacement) et Produit (IDEmplacement)	Liaison supprimée entre les fichiers Emplacement (IDEmplacement) et Produit (IDEmplacement)
+Contrainte_Produit_Ligne_Commande		DEL	Produit (IDProduit) et Ligne_Commande (IDProduit)	Liaison supprimée entre les fichiers Produit (IDProduit) et Ligne_Commande (IDProduit)

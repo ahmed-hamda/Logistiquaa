@@ -1,0 +1,2 @@
+//MO041-042.TXT ANA00041 TO ANA00042
+Emballage	Type_Emballage	CLEN*		la rubrique Type_Emballage est maintenant une clé

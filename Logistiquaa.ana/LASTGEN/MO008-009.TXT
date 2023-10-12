@@ -1,0 +1,9 @@
+//MO008-009.TXT ANA00008 TO ANA00009
+ServiceC		TAR	18	nouvelle taille enregistrement : 18
+ServiceC	Type_service	CNW	Entier non signé sur 1 octet$Chaîne	la rubrique Type_service a pour nouveau type Entier non signé sur 1 octet
+Paiement		TAR	18	nouvelle taille enregistrement : 18
+Paiement	Type_Paiement	CNW	Entier non signé sur 1 octet$Chaîne	la rubrique Type_Paiement a pour nouveau type Entier non signé sur 1 octet
+Emballage		TAR	18	nouvelle taille enregistrement : 18
+Emballage	Type_Emballage	CNW	Entier non signé sur 1 octet$Chaîne	la rubrique Type_Emballage a pour nouveau type Entier non signé sur 1 octet
+Ville		TAR	18	nouvelle taille enregistrement : 18
+Ville	Nom_Ville	CNW	Entier non signé sur 1 octet$Chaîne	la rubrique Nom_Ville a pour nouveau type Entier non signé sur 1 octet

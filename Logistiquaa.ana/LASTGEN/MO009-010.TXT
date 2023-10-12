@@ -1,0 +1,5 @@
+//MO009-010.TXT ANA00009 TO ANA00010
+commande		TAR	91	nouvelle taille enregistrement : 91
+commande	IDCode_Promo	RUB+		IDCode_Promo est une nouvelle clé
+Code_Promo		NFI		nouveau fichier
+Contrainte_Code_Promo_commande		NWL	Code_Promo (IDCode_Promo) et commande (IDCode_Promo)	Nouvelle liaison entre les fichiers Code_Promo (IDCode_Promo) et commande (IDCode_Promo)

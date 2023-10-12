@@ -1,0 +1,4 @@
+//MO010-011.TXT ANA00010 TO ANA00011
+Produit		TAR	285	nouvelle taille enregistrement : 285
+Produit	Quantité	RUB-		la rubrique Quantité est supprimée
+Produit	Prix_Unitaire	RUB-		la rubrique Prix_Unitaire est supprimée

@@ -1,0 +1,3 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+Client		TAR	749	nouvelle taille enregistrement : 749
+Client	C_mdp	RUB+		C_mdp est une nouvelle rubrique

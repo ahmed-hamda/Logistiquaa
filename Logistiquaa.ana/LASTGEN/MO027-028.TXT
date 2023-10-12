@@ -1,0 +1,3 @@
+//MO027-028.TXT ANA00027 TO ANA00028
+Emballage		TAR	78	nouvelle taille enregistrement : 78
+Emballage	Prix_Emballage	RUB+		Prix_Emballage est une nouvelle rubrique

@@ -1,0 +1,3 @@
+//MO012-013.TXT ANA00012 TO ANA00013
+Code_Promo		TAR	72	nouvelle taille enregistrement : 72
+Code_Promo	Code	CNW	Chaîne$Entier sur 4 octets	la rubrique Code a pour nouveau type Chaîne

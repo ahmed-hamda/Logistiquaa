@@ -1,0 +1,13 @@
+//MO017-018.TXT ANA00017 TO ANA00018
+ServiceC		TAR	68	nouvelle taille enregistrement : 68
+ServiceC	Type_service	CNW	Chaîne$Entier non signé sur 1 octet	la rubrique Type_service a pour nouveau type Chaîne
+Paiement		TAR	68	nouvelle taille enregistrement : 68
+Paiement	Type_Paiement	CNW	Chaîne$Entier non signé sur 1 octet	la rubrique Type_Paiement a pour nouveau type Chaîne
+Emballage		TAR	68	nouvelle taille enregistrement : 68
+Emballage	Type_Emballage	CNW	Chaîne$Entier non signé sur 1 octet	la rubrique Type_Emballage a pour nouveau type Chaîne
+Ville		TAR	68	nouvelle taille enregistrement : 68
+Ville	Nom_Ville	CNW	Chaîne$Entier non signé sur 1 octet	la rubrique Nom_Ville a pour nouveau type Chaîne
+Type_ramassage		TAR	68	nouvelle taille enregistrement : 68
+Type_ramassage	Type_Ramassage	CNW	Chaîne$Entier non signé sur 1 octet	la rubrique Type_Ramassage a pour nouveau type Chaîne
+Type_livraison		TAR	68	nouvelle taille enregistrement : 68
+Type_livraison	type_livraison	CNW	Chaîne$Entier non signé sur 1 octet	la rubrique type_livraison a pour nouveau type Chaîne

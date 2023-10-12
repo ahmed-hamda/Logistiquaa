@@ -1,0 +1,3 @@
+//MO057-058.TXT ANA00057 TO ANA00058
+Livreur		TAR	383	nouvelle taille enregistrement : 383
+Livreur	Code_Postale	RUB+		Code_Postale est une nouvelle rubrique

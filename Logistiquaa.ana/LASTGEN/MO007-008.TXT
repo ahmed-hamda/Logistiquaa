@@ -1,0 +1,5 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+Type_ramassage		TAR	18	nouvelle taille enregistrement : 18
+Type_ramassage	Type_Ramassage	CNW	Entier non signé sur 1 octet$Chaîne	la rubrique Type_Ramassage a pour nouveau type Entier non signé sur 1 octet
+Type_livraison		TAR	18	nouvelle taille enregistrement : 18
+Type_livraison	type_livraison	CNW	Entier non signé sur 1 octet$Chaîne	la rubrique type_livraison a pour nouveau type Entier non signé sur 1 octet

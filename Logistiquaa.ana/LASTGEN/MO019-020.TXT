@@ -1,0 +1,3 @@
+//MO019-020.TXT ANA00019 TO ANA00020
+commande		TAR	109	nouvelle taille enregistrement : 109
+commande	Montant_Total	RUB+		Montant_Total est une nouvelle rubrique

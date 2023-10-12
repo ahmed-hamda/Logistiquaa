@@ -1,0 +1,4 @@
+//MO063-064.TXT ANA00063 TO ANA00064
+Livreur		NFI		nouveau fichier
+Contrainte_Ville_Livreur		NWL	Ville (IDVille) et Livreur (IDVille)	Nouvelle liaison entre les fichiers Ville (IDVille) et Livreur (IDVille)
+Contrainte_Livreur_commande		NWL	Livreur (IDLivreur) et commande (IDLivreur)	Nouvelle liaison entre les fichiers Livreur (IDLivreur) et commande (IDLivreur)

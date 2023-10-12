@@ -1,0 +1,3 @@
+//MO040-041.TXT ANA00040 TO ANA00041
+commande		TAR	191	nouvelle taille enregistrement : 191
+commande	Recouvrement	RUB-		la rubrique Recouvrement est supprimée

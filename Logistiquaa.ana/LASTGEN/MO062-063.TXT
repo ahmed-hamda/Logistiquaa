@@ -1,0 +1,4 @@
+//MO062-063.TXT ANA00062 TO ANA00063
+Livreur		FIC-	Livreur	Fichier supprimé Livreur
+Contrainte_Ville_Livreur		DEL	Ville (IDVille) et Livreur (IDVille)	Liaison supprimée entre les fichiers Ville (IDVille) et Livreur (IDVille)
+Contrainte_Livreur_commande		DEL	Livreur (IDLivreur) et commande (IDLivreur)	Liaison supprimée entre les fichiers Livreur (IDLivreur) et commande (IDLivreur)

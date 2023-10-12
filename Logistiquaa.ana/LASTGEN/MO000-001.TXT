@@ -1,0 +1,28 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+commande		NFI		nouveau fichier
+ServiceC		NFI		nouveau fichier
+Service		NFI		nouveau fichier
+Ligne_Commande		NFI		nouveau fichier
+Produit		NFI		nouveau fichier
+Emplacement		NFI		nouveau fichier
+Paiement		NFI		nouveau fichier
+Emballage		NFI		nouveau fichier
+Client		NFI		nouveau fichier
+Destinataire		NFI		nouveau fichier
+Ville		NFI		nouveau fichier
+Type_Client		NFI		nouveau fichier
+Type_ramassage		NFI		nouveau fichier
+Facture		NFI		nouveau fichier
+Contrainte_Service_commande		NWL	Service (IDService) et commande (IDService)	Nouvelle liaison entre les fichiers Service (IDService) et commande (IDService)
+Contrainte_Paiement_Service		NWL	Paiement (IDPaiement) et Service (IDPaiement)	Nouvelle liaison entre les fichiers Paiement (IDPaiement) et Service (IDPaiement)
+Contrainte_Emballage_Service		NWL	Emballage (IDEmballage) et Service (IDEmballage)	Nouvelle liaison entre les fichiers Emballage (IDEmballage) et Service (IDEmballage)
+Contrainte_Emplacement_Produit		NWL	Emplacement (IDEmplacement) et Produit (IDEmplacement)	Nouvelle liaison entre les fichiers Emplacement (IDEmplacement) et Produit (IDEmplacement)
+Contrainte_Produit_Ligne_Commande		NWL	Produit (IDProduit) et Ligne_Commande (IDProduit)	Nouvelle liaison entre les fichiers Produit (IDProduit) et Ligne_Commande (IDProduit)
+Contrainte_Ligne_Commande_commande		NWL	Ligne_Commande (IDLigne_Commande) et commande (IDLigne_Commande)	Nouvelle liaison entre les fichiers Ligne_Commande (IDLigne_Commande) et commande (IDLigne_Commande)
+Contrainte_ServiceC_commande		NWL	ServiceC (IDServiceC) et commande (IDServiceC)	Nouvelle liaison entre les fichiers ServiceC (IDServiceC) et commande (IDServiceC)
+Contrainte_Client_commande		NWL	Client (IDClient) et commande (IDClient)	Nouvelle liaison entre les fichiers Client (IDClient) et commande (IDClient)
+Contrainte_Destinataire_commande		NWL	Destinataire (IDDestinataire) et commande (IDDestinataire)	Nouvelle liaison entre les fichiers Destinataire (IDDestinataire) et commande (IDDestinataire)
+Contrainte_Type_Client_Client		NWL	Type_Client (IDType_Client) et Client (IDType_Client)	Nouvelle liaison entre les fichiers Type_Client (IDType_Client) et Client (IDType_Client)
+Contrainte_Ville_Client		NWL	Ville (IDVille) et Client (IDVille)	Nouvelle liaison entre les fichiers Ville (IDVille) et Client (IDVille)
+Contrainte_Type_ramassage_commande		NWL	Type_ramassage (IDType_ramassage) et commande (IDType_ramassage)	Nouvelle liaison entre les fichiers Type_ramassage (IDType_ramassage) et commande (IDType_ramassage)
+Contrainte_Facture_Client		NWL	Client (IDClient) et Facture (IDClient)	Nouvelle liaison entre les fichiers Client (IDClient) et Facture (IDClient)

@@ -1,0 +1,4 @@
+//MO037-038.TXT ANA00037 TO ANA00038
+Destinataire		TAR	289	nouvelle taille enregistrement : 289
+Destinataire	IDClient	RUB+		IDClient est une nouvelle clé
+Contrainte_Client_Destinataire		NWL	Client (IDClient) et Destinataire (IDClient)	Nouvelle liaison entre les fichiers Client (IDClient) et Destinataire (IDClient)

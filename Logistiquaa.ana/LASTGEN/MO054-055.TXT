@@ -1,0 +1,6 @@
+//MO054-055.TXT ANA00054 TO ANA00055
+commande		TAR	278	nouvelle taille enregistrement : 278
+commande	IDLivreur	RUB+		IDLivreur est une nouvelle clé
+Livreur		TAR	182	nouvelle taille enregistrement : 182
+Livreur	IDcommande	RUB+		IDcommande est une nouvelle clé
+Contrainte_Livreur_commande		NWL	Livreur (IDLivreur) et commande (IDLivreur)	Nouvelle liaison entre les fichiers Livreur (IDLivreur) et commande (IDLivreur)

@@ -1,0 +1,4 @@
+//MO049-050.TXT ANA00049 TO ANA00050
+commande		TAR	208	nouvelle taille enregistrement : 208
+commande	IDHub	RUB+		IDHub est une nouvelle clé
+Contrainte_Hub_commande		NWL	Hub (IDHub) et commande (IDHub)	Nouvelle liaison entre les fichiers Hub (IDHub) et commande (IDHub)

@@ -1,0 +1,4 @@
+//MO036-037.TXT ANA00036 TO ANA00037
+Ligne_Commande		TAR	126	nouvelle taille enregistrement : 126
+Ligne_Commande	IDcommande	RUB+		IDcommande est une nouvelle clé
+Contrainte_commande_Ligne_Commande		NWL	commande (IDcommande) et Ligne_Commande (IDcommande)	Nouvelle liaison entre les fichiers commande (IDcommande) et Ligne_Commande (IDcommande)

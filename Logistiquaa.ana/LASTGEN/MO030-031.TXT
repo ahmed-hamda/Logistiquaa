@@ -1,0 +1,6 @@
+//MO030-031.TXT ANA00030 TO ANA00031
+commande		TAR	188	nouvelle taille enregistrement : 188
+commande		IDE-*		fichier sans identifiant
+commande	IDcommande	CNW	Chaîne$Identifiant automatique (8 octets)	la rubrique IDcommande a pour nouveau type Chaîne
+Ligne_Commande		TAR	173	nouvelle taille enregistrement : 173
+Ligne_Commande	IDcommande	CNW	Chaîne$Entier sur 8 octets	la rubrique IDcommande a pour nouveau type Chaîne

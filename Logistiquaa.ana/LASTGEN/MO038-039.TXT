@@ -1,0 +1,4 @@
+//MO038-039.TXT ANA00038 TO ANA00039
+Admin		FIC-	Admin	Fichier supprimé Admin
+Livreur		FIC-	Livreur	Fichier supprimé Livreur
+Magasinier		FIC-	Magasinier	Fichier supprimé Magasinier

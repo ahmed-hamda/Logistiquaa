@@ -1,0 +1,10 @@
+//MO020-021.TXT ANA00020 TO ANA00021
+commande		TAR	152	nouvelle taille enregistrement : 152
+commande	Code	RUB+		Code est une nouvelle clé
+commande	IDCode_Promo	RUB-		la clé IDCode_Promo est supprimée
+Code_Promo		TAR	64	nouvelle taille enregistrement : 64
+Code_Promo		IDE-*		fichier sans identifiant
+Code_Promo	Code	CLEU*		la rubrique Code est maintenant une clé
+Code_Promo	IDCode_Promo	RUB-		la clé IDCode_Promo est supprimée
+Contrainte_Code_Promo_commande		NWL	Code_Promo (Code) et commande (Code)	Nouvelle liaison entre les fichiers Code_Promo (Code) et commande (Code)
+Contrainte_Code_Promo_commande		DEL	Code_Promo (IDCode_Promo) et commande (IDCode_Promo)	Liaison supprimée entre les fichiers Code_Promo (IDCode_Promo) et commande (IDCode_Promo)

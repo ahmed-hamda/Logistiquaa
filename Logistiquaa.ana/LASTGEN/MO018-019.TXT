@@ -1,0 +1,5 @@
+//MO018-019.TXT ANA00018 TO ANA00019
+commande		TAR	99	nouvelle taille enregistrement : 99
+commande	IDEtat_Commande	RUB+		IDEtat_Commande est une nouvelle clé
+Etat_Commande		NFI		nouveau fichier
+Contrainte_Etat_Commande_commande		NWL	Etat_Commande (IDEtat_Commande) et commande (IDEtat_Commande)	Nouvelle liaison entre les fichiers Etat_Commande (IDEtat_Commande) et commande (IDEtat_Commande)

@@ -1,0 +1,5 @@
+//MO056-057.TXT ANA00056 TO ANA00057
+Livreur		TAR	332	nouvelle taille enregistrement : 332
+Livreur	Email	RUB+		Email est une nouvelle clé
+Livreur	Adresse	RUB+		Adresse est une nouvelle rubrique
+Livreur	Mobile	RUB+		Mobile est une nouvelle rubrique

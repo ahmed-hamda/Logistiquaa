@@ -1,0 +1,5 @@
+//MO060-061.TXT ANA00060 TO ANA00061
+Destinataire		TAR	344	nouvelle taille enregistrement : 344
+Destinataire	Etat	RUB+		Etat est une nouvelle rubrique
+Livreur		TAR	438	nouvelle taille enregistrement : 438
+Livreur	Etat	RUB+		Etat est une nouvelle rubrique

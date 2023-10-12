@@ -1,0 +1,3 @@
+//MO045-046.TXT ANA00045 TO ANA00046
+Emplacement		FIC-	Emplacement	Fichier supprimé Emplacement
+Contrainte_Emplacement_Ligne_Commande		DEL	Emplacement (IDEmplacement) et Ligne_Commande (IDEmplacement)	Liaison supprimée entre les fichiers Emplacement (IDEmplacement) et Ligne_Commande (IDEmplacement)

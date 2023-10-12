@@ -1,0 +1,6 @@
+//MO015-016.TXT ANA00015 TO ANA00016
+Client		TAR	792	nouvelle taille enregistrement : 792
+Client	Type_Client	RUB+		Type_Client est une nouvelle rubrique
+Client	IDType_Client	RUB-		la clé IDType_Client est supprimée
+Type_Client		FIC-	Type_Client	Fichier supprimé Type_Client
+Contrainte_Type_Client_Client		DEL	Type_Client (IDType_Client) et Client (IDType_Client)	Liaison supprimée entre les fichiers Type_Client (IDType_Client) et Client (IDType_Client)

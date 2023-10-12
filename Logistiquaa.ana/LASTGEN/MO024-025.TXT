@@ -1,0 +1,3 @@
+//MO024-025.TXT ANA00024 TO ANA00025
+commande		TAR	153	nouvelle taille enregistrement : 153
+commande	Recouvrement	CNW	Booléen$Chaîne	la rubrique Recouvrement a pour nouveau type Booléen

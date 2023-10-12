@@ -1,0 +1,3 @@
+//MO033-034.TXT ANA00033 TO ANA00034
+Livreur		NFI		nouveau fichier
+Magasinier		NFI		nouveau fichier

@@ -1,0 +1,2 @@
+//MO044-045.TXT ANA00044 TO ANA00045
+commande	Date_Commande	CLEN*		la rubrique Date_Commande est maintenant une clé

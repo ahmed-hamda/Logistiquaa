@@ -1,0 +1,5 @@
+//MO006-007.TXT ANA00006 TO ANA00007
+commande		TAR	83	nouvelle taille enregistrement : 83
+commande	IDType_livraison	RUB+		IDType_livraison est une nouvelle clé
+Type_livraison		NFI		nouveau fichier
+Contrainte_Type_livraison_commande		NWL	Type_livraison (IDType_livraison) et commande (IDType_livraison)	Nouvelle liaison entre les fichiers Type_livraison (IDType_livraison) et commande (IDType_livraison)

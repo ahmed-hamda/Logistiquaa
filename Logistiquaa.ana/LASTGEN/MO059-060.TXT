@@ -1,0 +1,4 @@
+//MO059-060.TXT ANA00059 TO ANA00060
+Livreur		TAR	434	nouvelle taille enregistrement : 434
+Livreur	mdp	RUB+		mdp est une nouvelle rubrique
+Livreur	C_mdp	RUB+		C_mdp est une nouvelle rubrique

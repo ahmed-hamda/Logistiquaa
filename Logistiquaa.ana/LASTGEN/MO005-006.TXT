@@ -1,0 +1,4 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+Destinataire		TAR	280	nouvelle taille enregistrement : 280
+Destinataire	IDVille	RUB+		IDVille est une nouvelle clé
+Contrainte_Ville_Destinataire		NWL	Ville (IDVille) et Destinataire (IDVille)	Nouvelle liaison entre les fichiers Ville (IDVille) et Destinataire (IDVille)

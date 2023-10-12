@@ -1,0 +1,8 @@
+//MO035-036.TXT ANA00035 TO ANA00036
+commande		TAR	192	nouvelle taille enregistrement : 192
+commande		IDE+*		fichier avec identifiant
+commande	IDcommande	CNW	Identifiant automatique (4 octets)$Chaîne	la rubrique IDcommande a pour nouveau type Identifiant automatique (4 oct
+commande	Code_Commande	RUB+		Code_Commande est une nouvelle clé
+Ligne_Commande		TAR	122	nouvelle taille enregistrement : 122
+Ligne_Commande	IDcommande	RUB-		la clé IDcommande est supprimée
+Contrainte_commande_Ligne_Commande		DEL	commande (IDcommande) et Ligne_Commande (IDcommande)	Liaison supprimée entre les fichiers commande (IDcommande) et Ligne_Commande (IDcommande)

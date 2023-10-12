@@ -1,0 +1,7 @@
+//MO022-023.TXT ANA00022 TO ANA00023
+commande	IDPaiement	RUB+		IDPaiement est une nouvelle clé
+commande	IDService	RUB-		la clé IDService est supprimée
+Service		FIC-	Service	Fichier supprimé Service
+Contrainte_Paiement_commande		NWL	Paiement (IDPaiement) et commande (IDPaiement)	Nouvelle liaison entre les fichiers Paiement (IDPaiement) et commande (IDPaiement)
+Contrainte_Service_commande		DEL	Service (IDService) et commande (IDService)	Liaison supprimée entre les fichiers Service (IDService) et commande (IDService)
+Contrainte_Paiement_Service		DEL	Paiement (IDPaiement) et Service (IDPaiement)	Liaison supprimée entre les fichiers Paiement (IDPaiement) et Service (IDPaiement)
